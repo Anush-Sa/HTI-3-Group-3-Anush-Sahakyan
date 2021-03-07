@@ -33,4 +33,5 @@ if start == '0':
     
 else:
     print("Invalid input")
-Input 1 if this number is smaller, Input -1 if the number is bigger, input 0 if this number is correct
+
+#Input 1 if this number is smaller, Input -1 if the number is bigger, input 0 if this number is correct
