@@ -3,7 +3,6 @@ class Employee:
         self,
         first_name, 
         last_name,
-        #work_email,
         join_date,
         gender='M',
         phone_number=None,
@@ -13,7 +12,6 @@ class Employee:
 
         self.first_name = first_name
         self.last_name = last_name
-        #self.work_email = work_email
         self.join_date = join_date
         self.gender = gender
         self.phone_number = phone_number
